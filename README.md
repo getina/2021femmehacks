@@ -1,5 +1,5 @@
 # 2021femmehacks
-<h4> Inspiration </h4?
+<h4> Inspiration </h4>
 As university students drowning in academic worries, we wanted to create something to help students with studying. We noticed that some of our peers prefer to study using flashcards, and we decided to create our own user-friendly flashcards app.
 <br>
 What it does
