@@ -2,7 +2,7 @@
 <h2> Inspiration </h2>
 As university students drowning in academic worries, we wanted to create something to help students with studying. We noticed that some of our peers prefer to study using flashcards, and we decided to create our own user-friendly flashcards app.
 <br>
-What it does
+<h3> What it does </h3>
 iQcards (a pun on IQ and cue cards) is a mobile app where users can create their own decks of double-sided flashcards to help them study and review for anything. Users can test themselves by using the test and shuffle features. Our app has a friendly minimalist and aesthetic design and also features a dark mode for the night owls. In addition, iQcards features an optional account system so users can save their decks and log in on different devices, including iQcards' desktop website.
 <br>
 How we built it
